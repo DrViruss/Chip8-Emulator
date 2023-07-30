@@ -1,0 +1,15 @@
+D:\Projs\.NET\Chip-8 Emulator\AD\bin\Debug\net7.0\AD.exe
+D:\Projs\.NET\Chip-8 Emulator\AD\bin\Debug\net7.0\AD.deps.json
+D:\Projs\.NET\Chip-8 Emulator\AD\bin\Debug\net7.0\AD.runtimeconfig.json
+D:\Projs\.NET\Chip-8 Emulator\AD\bin\Debug\net7.0\AD.dll
+D:\Projs\.NET\Chip-8 Emulator\AD\bin\Debug\net7.0\AD.pdb
+D:\Projs\.NET\Chip-8 Emulator\AD\obj\Debug\net7.0\AD.csproj.AssemblyReference.cache
+D:\Projs\.NET\Chip-8 Emulator\AD\obj\Debug\net7.0\AD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projs\.NET\Chip-8 Emulator\AD\obj\Debug\net7.0\AD.AssemblyInfoInputs.cache
+D:\Projs\.NET\Chip-8 Emulator\AD\obj\Debug\net7.0\AD.AssemblyInfo.cs
+D:\Projs\.NET\Chip-8 Emulator\AD\obj\Debug\net7.0\AD.csproj.CoreCompileInputs.cache
+D:\Projs\.NET\Chip-8 Emulator\AD\obj\Debug\net7.0\AD.dll
+D:\Projs\.NET\Chip-8 Emulator\AD\obj\Debug\net7.0\refint\AD.dll
+D:\Projs\.NET\Chip-8 Emulator\AD\obj\Debug\net7.0\AD.pdb
+D:\Projs\.NET\Chip-8 Emulator\AD\obj\Debug\net7.0\AD.genruntimeconfig.cache
+D:\Projs\.NET\Chip-8 Emulator\AD\obj\Debug\net7.0\ref\AD.dll

@@ -1,0 +1,18 @@
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\bin\Debug\net7.0\Console Emulator.exe
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\bin\Debug\net7.0\Console Emulator.deps.json
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\bin\Debug\net7.0\Console Emulator.runtimeconfig.json
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\bin\Debug\net7.0\Console Emulator.dll
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\bin\Debug\net7.0\Console Emulator.pdb
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\bin\Debug\net7.0\Base-Lib.dll
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\bin\Debug\net7.0\Base-Lib.pdb
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\obj\Debug\net7.0\Console Emulator.csproj.AssemblyReference.cache
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\obj\Debug\net7.0\Console Emulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\obj\Debug\net7.0\Console Emulator.AssemblyInfoInputs.cache
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\obj\Debug\net7.0\Console Emulator.AssemblyInfo.cs
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\obj\Debug\net7.0\Console Emulator.csproj.CoreCompileInputs.cache
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\obj\Debug\net7.0\Console Emulator.csproj.CopyComplete
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\obj\Debug\net7.0\Console Emulator.dll
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\obj\Debug\net7.0\refint\Console Emulator.dll
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\obj\Debug\net7.0\Console Emulator.pdb
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\obj\Debug\net7.0\Console Emulator.genruntimeconfig.cache
+D:\Projs\.NET\Chip-8 Emulator\Console Emulator\obj\Debug\net7.0\ref\Console Emulator.dll

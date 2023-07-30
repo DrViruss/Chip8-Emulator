@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Console Emulator/1.0.0": {
+        "dependencies": {
+          "Base-Lib": "1.0.0"
+        },
+        "runtime": {
+          "Console Emulator.dll": {}
+        }
+      },
+      "Base-Lib/1.0.0": {
+        "runtime": {
+          "Base-Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console Emulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Base-Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

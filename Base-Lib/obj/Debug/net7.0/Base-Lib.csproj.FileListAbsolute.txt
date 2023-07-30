@@ -1,0 +1,12 @@
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\bin\Debug\net7.0\Base-Lib.deps.json
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\bin\Debug\net7.0\Base-Lib.dll
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\bin\Debug\net7.0\Base-Lib.pdb
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\obj\Debug\net7.0\Base-Lib.csproj.AssemblyReference.cache
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\obj\Debug\net7.0\Base-Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\obj\Debug\net7.0\Base-Lib.AssemblyInfoInputs.cache
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\obj\Debug\net7.0\Base-Lib.AssemblyInfo.cs
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\obj\Debug\net7.0\Base-Lib.csproj.CoreCompileInputs.cache
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\obj\Debug\net7.0\Base-Lib.dll
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\obj\Debug\net7.0\refint\Base-Lib.dll
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\obj\Debug\net7.0\Base-Lib.pdb
+D:\Projs\.NET\Chip-8 Emulator\Base-Lib\obj\Debug\net7.0\ref\Base-Lib.dll
